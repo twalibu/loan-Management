@@ -1,0 +1,36 @@
+/*
+ _____      						 _______ 	     
+|  __ \  							|_ _ _ _| _  	 	    
+| |__) | 					     _	   | |	 | |	        
+|  ___/    ___    __ _    __ _  | |    | |	 | |__     ___ 	 _ __  _ __    ___ 
+| |\ \    / _ \  / _` |  / _` | | |    | |	 | '_ \   / _ \ | '_ \| '_ \  / _ \
+| | \ \  |  __/ | (_| | | (_| | | |    | |	 | | | | |  __/ | |  ||  | | |  __/
+|_|  \ \  \___|  \__, |  \__,_| |_|    |_|   |_| |_|  \___| |_|  ||  |_|  \___|
+                  __/ |              
+                 |___/  		     
+================================================================================ */
+/*==========================================================
+    Template Name: Appu-App Landing HTML5 Template
+    Created By: RegalTheme
+    Envato Profile: https://themeforest.net/user/regaltheme
+    Website: http://regaltheme.com
+    Description: Appu is Fully Responsive App Landing HTML5 Template with awesome features.
+    Version: v1.1
+    Support: http://regaltheme.com/support
+============================================================*/
+
+/* Google Fonts
+========================== */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,700');
+
+/* css files
+====================== */
+@import url('assets/css/bootstrap.min.css');
+@import url('assets/css/material-design-iconic-font.min.css');
+@import url('assets/css/custom-animate.css');
+@import url('assets/css/ripple.min.css');
+@import url('assets/css/venobox.css');
+@import url('assets/css/slick.min.css');
+@import url('assets/css/style.css');
+@import url('assets/css/responsive.css');
